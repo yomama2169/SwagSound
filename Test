@@ -1,0 +1,9 @@
+public class Program
+{
+	public static void main(String[] args) {
+		System.out.println("Hello and welcome to my code")
+    Scanner reader = new Scanner(System.in);  // Reading from System.in
+    System.out.println("Enter a number: ");
+    int n = reader.nextInt(); 
+	}
+}
